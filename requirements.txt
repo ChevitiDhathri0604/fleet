@@ -1,9 +1,6 @@
 streamlit
 folium
-streamlit-folium
-numpy
 pandas
-networkx
 plotly
-dwave-ocean-sdk
-dwave-networkx
+streamlit-folium
+geopy
